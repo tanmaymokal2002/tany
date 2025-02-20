@@ -1,0 +1,14 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore cache and build files
+.cache/
+dist/
+
+# Ignore environment variables
+.env
+
+# Ignore OS & editor-specific files
+.DS_Store
+.vscode/
+.idea/

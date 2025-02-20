@@ -1,0 +1,13 @@
+:root {
+  --dark-navy: #0d0d0d; /* Deep black for a sleek background */
+  --navy: #181818; /* Slightly lighter black for subtle depth */
+  --light-navy: #222222; /* Dark grayish-black for layering */
+  --lightest-navy: #2e2e2e; /* Soft black for contrast */
+  --navy-shadow: rgba(13, 13, 13, 0.7); /* Smooth shadow effect */
+  --slate: #b3b3b3; /* Soft gray for neutral text elements */
+  --light-slate: #d1d1d1; /* Light gray for better readability */
+  --lightest-slate: #eaeaea; /* Almost white for highlights */
+  --white: #f8f8f8; /* Crisp, clean white */
+  --green-bright: #ffcc55; /* Bold, vibrant yellow for accents */
+  --green-tint: rgba(255, 204, 0, 0.1); /* Subtle yellow tint */
+}
