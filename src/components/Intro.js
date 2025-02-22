@@ -34,7 +34,7 @@ class Intro extends React.Component {
           </span>
         </Typist>
         <FadeInSection>
-          <div className="intro-subtitle">I can Analyze You.</div>
+          <div className="intro-subtitle">I can Analyze You :)</div>
           <div className="intro-desc">
             Aspiring Data Analytics Engineer passionate about transforming raw
             data into actionable insights. Proficient in SQL and Python, with

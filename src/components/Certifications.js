@@ -39,6 +39,11 @@ class Projects extends React.Component {
           "https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/?couponCode=ST9MT120225A",
         image: "/assets/sql_hackerank_advanced.jpg",
       },
+      "Accenture Virtual Internship": {
+        link:
+          "https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/?couponCode=ST9MT120225A",
+        image: "/assets/accenture_virtual_internship.png",
+      },
     };
 
     return (

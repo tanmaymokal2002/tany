@@ -82,20 +82,11 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
-    "Tata Group": {
-      jobTitle: "Virutal Data Visualization Internship @",
-      duration: "JUL 2022 - PRESENT",
-      desc: [
-        "The Tata Data Visualization Virtual Internship on Forage provides hands-on experience in data analysis and visualization.",
-        "Participants learn to frame business scenarios, choose the right visuals, create effective dashboards using tools like Tableau or Power BI, and communicate insights to leadership.",
-        "This self-paced program enhances analytical and presentation skills, culminating in a certificate upon completion.",
-      ],
-    },
     Accenture: {
-      jobTitle: "Accenture Navigating Numbers Virtual Internship @",
-      duration: "MAY 2020 - APR 2021",
+      jobTitle: "Data Analytics and Visualization Virtual Internship @",
+      duration: "JAN 2025 - FEB 2025",
       desc: [
-        "The Accenture Navigating Numbers Virtual Internship provided hands-on experience in data analytics and visualization.",
+        "The Accenture Data Analytics and Visualization Virtual Internship provided hands-on experience in data analytics and visualization.",
         " I learned key concepts such as data cleaning, modeling, visualization, and storytelling, helping me understand how to transform raw data into meaningful insights.",
         " The program also gave me a glimpse into real-world data challenges and how analytics can drive impactful business decisions. This experience enhanced my analytical skills and provided valuable exposure to a career in data analytics",
       ],

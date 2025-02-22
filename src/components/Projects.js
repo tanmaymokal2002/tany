@@ -29,6 +29,19 @@ class Projects extends React.Component {
         open:
           "https://public.tableau.com/views/CarSales_17393900655030/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
       },
+      "Accenture Virtual Internship": {
+        desc:
+          "An End-To-End Analysis project focused on data cleaning, modeling, and visualization for content popularity insights of Social Buzz(client company)",
+        techStack: "Excel, PowerPoint",
+        link: "https://github.com/tanmaymokal2002/Accenture-Virtual-Internship",
+      },
+
+      "Netflix SQL Project": {
+        desc:
+          "A comprehensive data analysis project on Netflix Movies and TV Shows using SQL, focusing on content distribution, ratings, and trends.",
+        techStack: "PostgreSQL",
+        link: "https://github.com/tanmaymokal2002/Netflix-SQL-Project",
+      },
     };
 
     return (
